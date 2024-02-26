@@ -15,7 +15,7 @@ Angular CLI
 
 For macOS users, you can use Homebrew to install Node.js:`brew install node`
 
-for Linux users 'apt install nodejs npm'
+for Linux users `apt install nodejs npm`
 
 2. Install Angular CLI globally:`npm install -g @angular/cli`
 
